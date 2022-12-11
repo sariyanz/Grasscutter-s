@@ -18,7 +18,7 @@
 * Spawning monsters via console
 * Inventory features (receiving items/characters, upgrading items/characters, etc)
 
-## Quick setup guide
+## Quick setup guide.
 
 **Note:** For support please join our [Discord](https://discord.gg/T5vZU6UyeG).
 
